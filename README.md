@@ -45,16 +45,16 @@ $ yarn run bundle
 
 Home Page before Login:
 
-![Alt Home Page](http://ryanhunter.org/portfolio/hse_home.png)
+![Alt Home Page](http://ryanhunter.org/images/hse_home.png)
 
 Sign up page:
 
-![Alt Signup Page](http://ryanhunter.org/portfolio/hse_signup.png)
+![Alt Signup Page](http://ryanhunter.org/images/hse_signup.png)
 
 Login page:
 
-![Alt Login Page](http://ryanhunter.org/portfolio/hse_login.png)
+![Alt Login Page](http://ryanhunter.org/images/hse_login.png)
 
 Dashboard which is only accessible after login:
 
-![Alt Dashboard](http://ryanhunter.org/portfolio/hse_dashboard.png)
+![Alt Dashboard](http://ryanhunter.org/images/hse_dashboard.png)
