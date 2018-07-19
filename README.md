@@ -46,7 +46,7 @@ HSE Dashboard which is only accessible after login:
 
 After Sign-out:
 
-![Alt Signup Page](http://ryanhunter.org/images/portfolio/hse/hse_signout.png)
+![Alt Signup Page](http://ryanhunter.org/images/portfolio/hse/hse_logout.png)
 
 
 
