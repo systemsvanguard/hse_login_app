@@ -13,48 +13,44 @@ This application incorporates the following packages:
 - validator 
 
 ## Steps to Install
-- Use npm install -g nodemon , to get server restarts globally on your computer.
+- Use Yarn. See https://yarnpkg.com/en/ . 
 - git clone https://github.com/systemsvanguard/hse_login_app.git 
-- npm install
-- nodemon index.js OR node index.js 
-- Runs on port 3000 --> http://localhost:3000/
+- cd hse_login_app
+- yarn install
+- yarn run dev
+- Runs on port 3000 --> http://localhost:3000/ 
+- When editing the files, run the following command for webpack to watch your files and bundle whenever changes are made: 
+- yarn run bundle
 
 
-## Installation
 
-Use Yarn. See https://yarnpkg.com/en/ .   After cloning the repo, follow the steps below:
-```sh
-$ cd hse_login_app
-```
-```sh
-$ yarn install
-```
-```sh
-$ sudo mongod
-```
-```sh
-$ yarn run dev
-```
 
-When editing the files, run the following command for webpack to watch your files and bundle whenever changes are made:
-```sh
-$ yarn run bundle
-```
 
 ## Screenshots
 
-Home Page before Login:
+HSE Home Page before Login:
 
-![Alt Home Page](http://ryanhunter.org/images/hse_home.png)
+![Alt Home Page](http://ryanhunter.org/images/portfolio/hse/hse_home.png)
 
 Sign up page:
 
-![Alt Signup Page](http://ryanhunter.org/images/hse_signup.png)
+![Alt Signup Page](http://ryanhunter.org/images/portfolio/hse/hse_signup.png)
 
 Login page:
 
-![Alt Login Page](http://ryanhunter.org/images/hse_login.png)
+![Alt Login Page](http://ryanhunter.org/images/portfolio/hse/hse_login.png)
 
-Dashboard which is only accessible after login:
+HSE Dashboard which is only accessible after login:
 
-![Alt Dashboard](http://ryanhunter.org/images/hse_dashboard.png)
+![Alt Dashboard](http://ryanhunter.org/images/portfolio/hse/hse_dashboard.png)
+
+After Sign-out:
+
+![Alt Signup Page](http://ryanhunter.org/images/portfolio/hse/hse_signout.png)
+
+
+
+## License
+
+This project is licensed under the terms of the **MIT** license.
+
